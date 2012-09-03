@@ -11,7 +11,7 @@
 
 var fn_ec_spfb = {
 	className:"bold",
-	boldSize:"0.6px",
+	boldSize:"1px",
 	init:function() {
 		var elArray = document.getElementsByClassName(fn_ec_spfb.className);
 		for(var i=0;i<elArray.length;i++) {
