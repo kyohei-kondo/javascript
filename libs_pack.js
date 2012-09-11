@@ -20,7 +20,7 @@ var fn_ec_libs = {
 	alpha_off:{
 		active:true, // 透過処理を使用するか
 		Element:".img_vivid", // 対象要素
-		speed:"slow", // 1000=1秒　他 "slow"や"normal"や"fast"を指定可
+		speed:"slow" // 1000=1秒　他 "slow"や"normal"や"fast"を指定可
 	},
 	/**
 		ロールオーバー処理
@@ -29,8 +29,7 @@ var fn_ec_libs = {
 	img_hover:{
 		active:true, // ロールオーバー処理を使用するか
 		Element:".img_hover" // 対象要素
-	}
-	,
+	},
 	
 	/**
 		処理実行用
